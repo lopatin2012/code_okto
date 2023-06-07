@@ -1,0 +1,34 @@
+{
+  "ceh_1": {
+    "login": "mkv.vrn.c1@gmail.com",
+    "password": "Mkv11c10+"
+  },
+  "kmc": {
+    "login": "mkv.kmc.okto@gmail.com",
+    "password": "Mkv19Kmc10+"
+  },
+  "cmc": {
+    "login": "mkv.cmc.okto@gmail.com",
+    "password": "Mkv19cmc10+"
+  },
+  "csm": {
+    "login": "molvest.vrn.okto@gmail.com",
+    "password": "Mol17Vest08+"
+  },
+  "tv": {
+    "login": "mkv.tv.okto@gmail.com",
+    "password": "Mkv19Tv10+"
+  },
+  "malysh" : {
+    "login": "molvest.malysh@gmail.com",
+    "password": "Mal28ych04+"
+  },
+  "malysh_2" : {
+    "login": "molvest.malysh2@gmail.com",
+    "password": "Mal22ych11+"
+  },
+  "st": {
+    "login": "molvest.st@gmail.ru",
+    "password": "Molvest22st07+"
+  }
+}
