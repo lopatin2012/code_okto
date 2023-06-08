@@ -1,23 +1,28 @@
 {
-  "ceh_1": {
+  "Первый цех": {
     "login": "mkv.vrn.c1@gmail.com",
-    "password": "Mkv11c10+"
+    "password": "Mkv11c10+",
+    "code": "a3e5ac4e-c6c3-4d80-9781-cdbc972297ba"
   },
-  "kmc": {
+  "Кисломолочный цех": {
     "login": "mkv.kmc.okto@gmail.com",
-    "password": "Mkv19Kmc10+"
+    "password": "Mkv19Kmc10+",
+    "code": "376a0268-8ab4-4d25-a80e-90fe4d0f5bae"
   },
   "cmc": {
     "login": "mkv.cmc.okto@gmail.com",
-    "password": "Mkv19cmc10+"
+    "password": "Mkv19cmc10+",
+    "code": null
   },
-  "csm": {
+  "Цех стерилизованного молока": {
     "login": "molvest.vrn.okto@gmail.com",
-    "password": "Mol17Vest08+"
+    "password": "Mol17Vest08+",
+    "code": "86ddc2a4-49a5-4330-98d4-b3928d0f50bd"
   },
-  "tv": {
+  "Творожный цех": {
     "login": "mkv.tv.okto@gmail.com",
-    "password": "Mkv19Tv10+"
+    "password": "Mkv19Tv10+",
+    "code": "4b498052-8218-4fe4-84bc-f344c72fa727"
   },
   "malysh" : {
     "login": "molvest.malysh@gmail.com",
